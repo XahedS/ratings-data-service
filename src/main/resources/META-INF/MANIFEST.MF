@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Main-Class: example.microservice.ratingsdataservice.RatingsDataServiceAp
+ plication
+Class-Path: spring-expression-5.3.22.jar joda-time-2.3.jar log4j-to-slf4
+ j-2.17.2.jar archaius-core-0.7.6.jar compactmap-2.0.jar spring-boot-sta
+ rter-cache-2.7.2.jar logback-classic-1.2.11.jar eureka-core-1.10.17.jar
+  logback-core-1.2.11.jar xstream-1.4.18.jar guice-4.1.0.jar jackson-dat
+ abind-2.13.3.jar tomcat-embed-websocket-9.0.65.jar bcpkix-jdk15on-1.68.
+ jar evictor-1.0.0.jar spring-cloud-starter-netflix-eureka-client-3.1.3.
+ jar spring-jcl-5.3.22.jar stringtemplate-3.2.1.jar httpclient-4.5.13.ja
+ r jul-to-slf4j-1.7.36.jar guava-16.0.jar spring-boot-starter-json-2.7.2
+ .jar spring-beans-5.3.22.jar spring-cloud-commons-3.1.3.jar commons-jxp
+ ath-1.3.jar jackson-annotations-2.13.3.jar snakeyaml-1.30.jar antlr-run
+ time-3.4.jar commons-logging-1.1.1.jar woodstox-core-6.2.1.jar spring-c
+ loud-starter-3.1.3.jar spring-context-5.3.22.jar tomcat-embed-core-9.0.
+ 65.jar tomcat-embed-el-9.0.65.jar eureka-client-1.10.17.jar stax2-api-4
+ .2.1.jar spring-boot-starter-web-2.7.2.jar commons-codec-1.15.jar jakar
+ ta.annotation-api-1.3.5.jar spring-cloud-loadbalancer-3.1.3.jar gson-2.
+ 9.0.jar antlr-2.7.7.jar servo-core-0.12.21.jar netflix-eventbus-0.3.0.j
+ ar netflix-infix-0.3.0.jar reactor-core-3.4.21.jar spring-boot-starter-
+ logging-2.7.2.jar httpcore-4.4.15.jar bcprov-jdk15on-1.68.jar commons-c
+ onfiguration-1.10.jar slf4j-api-1.7.36.jar javax.inject-1.jar xmlpull-1
+ .1.3.1.jar jackson-datatype-jdk8-2.13.3.jar spring-aop-5.3.22.jar dexx-
+ collections-0.2.jar spring-cloud-netflix-eureka-client-3.1.3.jar jackso
+ n-core-2.13.3.jar spring-security-crypto-5.7.2.jar spring-webmvc-5.3.22
+ .jar reactor-extra-3.4.8.jar spring-boot-starter-tomcat-2.7.2.jar commo
+ ns-lang-2.6.jar jsr305-3.0.2.jar spring-boot-2.7.2.jar jsr311-api-1.1.1
+ .jar servlet-api-2.5.jar spring-core-5.3.22.jar spring-cloud-context-3.
+ 1.3.jar jackson-datatype-jsr310-2.13.3.jar mxparser-1.2.2.jar reactive-
+ streams-1.0.4.jar jackson-module-parameter-names-2.13.3.jar log4j-api-2
+ .17.2.jar spring-web-5.3.22.jar jettison-1.4.0.jar spring-boot-autoconf
+ igure-2.7.2.jar spring-boot-starter-2.7.2.jar spring-security-rsa-1.0.1
+ 0.RELEASE.jar spring-cloud-starter-loadbalancer-3.1.3.jar commons-math-
+ 2.2.jar spring-context-support-5.3.22.jar
+
