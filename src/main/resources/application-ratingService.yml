@@ -1,1 +1,9 @@
-server.port: 8083
+server.contextPath: /Ratings-Data-Service
+server:
+  servlet:
+    context-path: /Ratings-Data-Service
+    application-display-name: Ratings-Data-Service
+eureka.client.service-url.defaultZone: http://192.168.18.12:8090/Discovery-Server-Application/eureka/
+eureka.client.register-with-eureka: true
+eureka.client.fetch-registry: true
+eureka.client.preferSameZoneEureka: true

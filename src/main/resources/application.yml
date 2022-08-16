@@ -1,3 +1,4 @@
+server.port: 8083
 spring.application.name: ratings-data-service
 spring.profiles.active: ratingService
-eureka.client.serviceUrl.defaultZone: http://localhost:9000/eureka/
+eureka.client.serviceUrl.defaultZone: http://192.168.18.12:8090/Discovery-Server-Application/eureka/
